@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @lbodlev888
-- 👀 I’m interested in C++, C#
+- 👀 I know C++, C#
 - 🌱 I’m currently learning neural networks
 - 💞️ I’m looking to collaborate on dev companies
 
